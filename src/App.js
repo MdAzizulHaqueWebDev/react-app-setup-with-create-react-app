@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        Create by "create-react-app" <a href='https://create-react-app.dev/docs/getting-started' target='_blank' >Link</a>
       </header>
     </div>
   );
